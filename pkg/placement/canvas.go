@@ -1,4 +1,4 @@
-package types
+package placement
 
 type Canvas struct {
 	Height, Width    int
